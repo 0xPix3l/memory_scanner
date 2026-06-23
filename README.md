@@ -7,3 +7,5 @@ A C learning project that simulates the core memory scanning technique used by E
 gcc main.c assets.c -o main
 ./main
 ```
+
+![image](assets/memory_scanner.png)
