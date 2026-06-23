@@ -11,7 +11,7 @@ gcc main.c assets.c -o main
 # nim:
 nim c -d:release -d:strip --opt:size main.nim
 
+
 <div align="center">
-
-
-![image](assets/memory_scanner.png)
+  <img src="assets/memory_scanner.png" alt="Memory Scanner Output">
+</div>
